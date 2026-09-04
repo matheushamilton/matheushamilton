@@ -8,11 +8,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um estudante apaixonado por tecnologia e resolução de problemas através do código. Atualmente estou focado no aprendizado do desenvolvimento Full-Stack, construindo fundações sólidas na Web e em Bancos de Dados enquanto me preparo para dominar novas ferramentas do ecossistema moderno e ferramentas ligadas a segurança Web (cybersecurity).
-
-* 📚 **Foco atual:** Aperfeiçoar conhecimentos na Web clássica e lógica de programação.
-* 🎯 **Objetivo:** Me tornar um desenvolvedor Full-Stack completo e criar aplicações escaláveis.
-* 💡 **Aberto a:** Projetos de código aberto, colaborações para aprendizado e desafios.
+Meu nome é Matheus Hamilton, 17 anos de idade cursando o ensino médio e técnico em Informática na escola de ensino profissionalizante EEEP Lúcia Helena Viana Ribeiro. Focado em resolução de problemas através do código. Atualmente estou focado no aprendizado do desenvolvimento Full-Stack, construindo fundações sólidas na Web e em Bancos de Dados enquanto me preparo para dominar novas ferramentas do ecossistema moderno e ferramentas ligadas a segurança Web (cybersecurity).
 
 ---
 
@@ -33,6 +29,15 @@ Sou um estudante apaixonado por tecnologia e resolução de problemas através d
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+## 📊 Estatísticas: 
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=matheushamilton&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br)](https://github-stats-extended.vercel.app/api?username=matheushamilton&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight&locale+pt-br)
+
+<br/>
+
+---
 
 
 ## 📬 Conexões
